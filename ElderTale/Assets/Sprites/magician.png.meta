@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 5a4e2949760534d3bbdf8bddaab85c59
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MagicianWalk2
+    21300002: magician_1
+    21300004: magician_2
+    21300006: magician_3
+    21300008: magician_4
+    21300010: magician_5
+    21300012: magician_6
+    21300014: magician_7
+    21300016: magician_8
+    21300018: magician_9
+    21300020: magician_10
+    21300022: magician_11
+    21300024: magician_12
+    21300026: magician_13
+    21300028: magician_14
+    21300030: magician_15
+    21300032: magician_16
+    21300034: magician_17
+    21300036: magician_18
+    21300038: magician_19
+    21300040: magician_20
+    21300042: magician_21
+    21300044: magician_22
+    21300046: magician_23
+    21300048: magician_24
+    21300050: magician_25
+    21300052: magician_26
+    21300054: magician_27
+    21300056: magician_28
+    21300058: magician_29
+    21300060: magician_30
+    21300062: magician_31
+    21300064: magician_32
+    21300066: magician_33
+    21300068: magician_34
+    21300070: magician_35
+    21300072: magician_36
+    21300074: magician_37
+    21300076: magician_38
+    21300078: magician_39
+    21300080: magician_40
+    21300082: magician_41
+    21300084: magician_42
+    21300086: magician_43
+    21300088: magician_44
+    21300090: magician_45
+    21300092: magician_46
+    21300094: magician_47
+    21300096: magician_48
+    21300098: magician_49
+    21300100: MagicianWalk1
+    21300102: MagicianIdle
+    21300104: MagicianAttack
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MagicianWalk2
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1336
+        width: 498
+        height: 711
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 547
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 503
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 517
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 471
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 469
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 415
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 441
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 459
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 399
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 405
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_12
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 420
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 406
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 413
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_15
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 393
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 323
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 319
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 295
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_19
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 297
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 259
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 267
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_22
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 232
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_23
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 267
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_24
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 239
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 235
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 231
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 237
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_28
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 134
+        width: 183
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_30
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_31
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 223
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 183
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_34
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 209
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_35
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 215
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_36
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 200
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 177
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 185
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_39
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 165
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_40
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 32
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_41
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_42
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 162
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 117
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 113
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_45
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 85
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_46
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 111
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_47
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 117
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_48
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 91
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: magician_49
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 51
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagicianWalk1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1303
+        width: 553
+        height: 745
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagicianIdle
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 575
+        width: 522
+        height: 725
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MagicianAttack
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 520
+        height: 725
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

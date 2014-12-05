@@ -13,6 +13,8 @@ public class Camera2DFollow : MonoBehaviour {
 	Vector3 lastTargetPosition;
 	Vector3 currentVelocity;
 	Vector3 lookAheadPos;
+
+	float nextTimeToSearch = 0;
 	
 	// Use this for initialization
 	void Start () {
@@ -23,7 +25,12 @@ public class Camera2DFollow : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+
+		if (target == null) {
+			FindPlayer();
+			return;
+		}
+
 		// only update lookahead pos if accelerating or changed direction
 		float xMoveDelta = (target.position - lastTargetPosition).x;
 
@@ -42,4 +49,25 @@ public class Camera2DFollow : MonoBehaviour {
 		
 		lastTargetPosition = target.position;		
 	}
+
+	void FindPlayer(){
+		Debug.Log ("Searching");
+		if(nextTimeToSearch <= Time.time){
+			GameObject searchResult = GameObject.FindGameObjectWithTag("MyPlayer2");
+			Debug.Log(searchResult);
+			if(searchResult != null){
+				Debug.Log("Se asigna target");
+				target = searchResult.transform;
+			}
+			nextTimeToSearch = Time.time + 0.5f;
+		}
+	}
+
 }
+
+
+
+
+
+
+
